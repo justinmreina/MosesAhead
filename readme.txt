@@ -4,6 +4,11 @@
 @date 		11/15/20
 
 
-@section 	Notes
-	x
+@section 	Opens Store
+	Paper Notes
+	Trndsttrs Reachouts
+	Email Search
+	Slack Search
+	Web Links
+	FB IM Check
 
