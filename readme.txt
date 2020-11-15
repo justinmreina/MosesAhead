@@ -4,11 +4,7 @@
 @date 		11/15/20
 
 
-@section 	Opens Store
-	Paper Notes
-	Trndsttrs Reachouts
-	Email Search
-	Slack Search
-	Web Links
-	FB IM Check
+@section 	Opens
+	FB IM Check (Content Store)
+	Path, Method & Plan
 
